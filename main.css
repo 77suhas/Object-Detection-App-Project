@@ -1,0 +1,13 @@
+.heading{
+  font-size: 23px;
+  width: 80%;
+  margin: 0px;
+  box-shadow: 5px 5px 20px aqua;
+}
+#status{
+  font-size: 18px;
+}
+body {
+  background-image: url("security.jpg");
+  background-size: cover;
+}
